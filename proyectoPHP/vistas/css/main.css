@@ -1,0 +1,38 @@
+.ma-titulo {
+    text-align: center;
+}
+
+.errores {
+    background: red;
+    font-size: 10px;
+    display: none;
+    color: white;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.imgRedonda {
+    width:150px;
+    height:150px;
+    border-radius:150px;
+}
+
+
+#modal-color {
+    Background-color: #95b6fc;
+}
+
+
+#tituloModal{
+    text-align: center;
+    background-color: #7d9ffd;
+    color: white;
+}
+
+#contenidoCheckout{
+    padding: 0px 20px;
+}
+
+#prueba{
+    float: right;
+}
